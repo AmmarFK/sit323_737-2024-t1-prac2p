@@ -1,10 +1,9 @@
-Project Title
-Brief project description or overview.
+# Task 2.1P
 
-Getting Started
+# Getting Started
 These instructions will help you set up and run the project on your local machine.
 
-Prerequisites
+# Prerequisites
 Before running the project, ensure you have the following installed on your system:
 
 Node.js and npm (installation guide)
@@ -36,5 +35,5 @@ Built With
 Express.js - Web framework for Node.js
 Bootstrap - Front-end framework
 
-License
+# License
 This project is licensed under the MIT License.
